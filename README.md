@@ -39,12 +39,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uosofkho&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
